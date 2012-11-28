@@ -55,10 +55,10 @@ and maintained by `Tangent Labs`_, a London-based digital agency, with help from
 Screenshots
 -----------
 
-.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/fiction_thumb.png
+.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/fiction_thumb1.png
     :target: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/fiction.png
 
-.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/fiction_thumb.png
+.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/fiction_thumb1.png
     :target: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/fiction.png
 
 Extensions
