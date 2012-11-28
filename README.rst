@@ -52,6 +52,11 @@ and maintained by `Tangent Labs`_, a London-based digital agency, with help from
 .. _`Tangent Labs`: http://www.tangentlabs.co.uk
 .. _`Mirumee`: http://mirumee.com/
 
+Screenshots
+-----------
+
+.. image:: http://raw.github.com/tangentlabs/django-oscar/screenshots/docs/images/screenshots/fiction.png
+
 Extensions
 ----------
 
