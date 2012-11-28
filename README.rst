@@ -129,7 +129,7 @@ Tangent projects:
     :target: http://www.landmarkonthenet.com
 .. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/chocolatebox_thumb.png
     :target: https://www.thechocolatebox.com.au
-.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/labourshop.png
+.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/labourshop_thumb.png
     :target: https://shop.labour.org.uk
 
 Non-Tangent:
