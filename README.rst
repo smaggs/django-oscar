@@ -125,6 +125,13 @@ Tangent projects:
 * The UK Labour party - http://shop.labour.org.uk
 * Chocolate Box - https://www.thechocolatebox.com.au
 
+.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/landmark_thumb.png
+    :target: http://www.landmarkonthenet.com
+.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/chocolatebox_thumb.png
+    :target: https://www.thechocolatebox.com.au
+.. image:: https://github.com/tangentlabs/django-oscar/raw/screenshots/docs/images/screenshots/labourshop.png
+    :target: https://shop.labour.org.uk
+
 Non-Tangent:
 
 * Dolbeau - http://www.dolbeau.ca/
