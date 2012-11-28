@@ -56,6 +56,7 @@ Screenshots
 -----------
 
 .. image:: http://raw.github.com/tangentlabs/django-oscar/screenshots/docs/images/screenshots/fiction.png
+.. image:: http://raw.github.com/tangentlabs/django-oscar/screenshots/docs/images/screenshots/fiction_thumb.png
 
 Extensions
 ----------
